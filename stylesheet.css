@@ -1,0 +1,51 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    color: white;
+}
+
+a {
+    color: lightblue;
+}
+
+h2 {
+    padding-bottom: 10px;
+}
+
+#wrapper {
+    background-color: blue;
+    padding: 10px;
+}
+
+#banner {
+    background-color: red;
+    margin: 0px 0px 15px 0px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#navigation {
+    display: inline-block;
+    background-color: lightgreen;
+    padding: 25px 35px;
+    vertical-align: top;
+    border-radius: 10px;
+}
+
+#main_content {
+    display: inline-block;
+    background-color: darkblue;
+    width: 70%;
+    padding: 35px 20px;
+    margin: 0px 20px;
+    border-radius: 10px;
+}
+
+#advertisement {
+    background-color: grey;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 20px;
+}
